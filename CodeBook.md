@@ -7,15 +7,15 @@
  subject                    | int  	|1 - 30			|the id number for the volunteer subject
  activity                   | chr 	|WALKING
 		|the descriptive activity name
-			    | 	 	|WALKING_UPSTAIRS	|the descriptive activity name
+			    | 	 	|WALKING_UPSTAIRS	|
 			    | 		
 |WALKING_DOWNSTAIRS
-	|the descriptive activity name
+	|
 			    | 		|SITTING
-		|the descriptive activity name
+		|
 			    |		|STANDING
-		|the descriptive activity name
-			    |		|LAYING			|the descriptive activity name
+		|
+			    |		|LAYING			|
  tBodyAcc.Mean.X            | num  	|-1.0 to 1.0		|time domain signal, mean value
  tBodyAcc.Mean.Y            | num  	|-1.0 to 1.0		|time domain signal, mean value
  tBodyAcc.Mean.Z            | num  	|-1.0 to 1.0		|time domain signal, mean value
