@@ -11,7 +11,7 @@ The raw data used for this project analysis was downloaded from here:
 
 
 ## Functionality
-**run_analysis.R accomplishes the following: **
+###run_analysis.R accomplishes the following:
 * Merges 6 individual .txt files (3 describing a training sample and 3 describing a test sample) together to form a single data set.  Each observation in this large, raw data set includes a volunteer id number, an activity, and several hundred different measurements taken with an accelerometer and gyroscope embedded in a smart phone worn by the subject volunteer.
 * Extracts only the measurements for the mean and standard deviation for each activity.  All other measurements such as max, min, correlations, etc. are discarded.
 * Replaces numeric identifiers for the activities with descriptive values (WALKING, WALKING_UPSTAIRS, WALKING_DOWNSTAIRS, SITTING, STANDING, LAYING).
