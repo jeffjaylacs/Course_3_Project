@@ -6,7 +6,7 @@
 ----------------------------|-----------|-----------------------|-----------------------------------------------
  subject                    | int  	|1 - 30			|the id number for the volunteer subject
  activity                   | chr 	|WALKING
-		|the descriptive activity name
+		|activiy name
 			    | 	 	|WALKING_UPSTAIRS	|
 			    | 		
 |WALKING_DOWNSTAIRS
