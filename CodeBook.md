@@ -1,11 +1,10 @@
 # Code Book for the data in Course3Project.txt 
-##(Output from run_analysis.R)
+###(Output from run_analysis.R)
 
 
  __Variable__		    | __Type__	| __Values__ 		| __Comments__
 ----------------------------|-----------|-----------------------|-----------------------------------------------
  subject                    | int  	|1 - 30			|the id number for the volunteer subject
-			    |		|		        |
  activity                   | chr 	|WALKING
 		|the descriptive activity name
 			    |		|WALKING_UPSTAIRS	|
@@ -17,7 +16,6 @@
 			    |		|STANDING
 		|
 			    |		|LAYING			|
-			    | 		|			|	
  tBodyAcc.Mean.X            | num  	|-1.0 to 1.0		|time domain signal, mean value
  tBodyAcc.Mean.Y            | num  	|-1.0 to 1.0		|time domain signal, mean value
  tBodyAcc.Mean.Z            | num  	|-1.0 to 1.0		|time domain signal, mean value
